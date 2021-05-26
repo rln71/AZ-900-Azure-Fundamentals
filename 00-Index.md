@@ -4,7 +4,7 @@
 
 # Índice de Evidencias
 
-### [01-Create a virtual machine](https://github.com/rln71/CFTIC-Az900/blob/main/Az900/01-Create%20a%20virtual%20machine.md)
+### [01-Create a virtual machine](https://github.com/rln71/AZ-900-Azure-Fundamentals/blob/main/01-Create%20a%20virtual%20machine.md)
 
 ![P01-Create_a_virtual_machine_04](images/P01-Create_a_virtual_machine_04.png)
 
