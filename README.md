@@ -1,8 +1,6 @@
 # AZ-900 Microsoft Azure Fundamentals
 
-------
-
-Listado de evidencias. Haga click en el título de cada práctica para visitar su página de detalle con todas las capturas de la práctica.
+Listado de evidencias. Click en el título de cada práctica para visitar su página de detalle con todas las capturas de la práctica.
 
 ### [01-Create a virtual machine](https://github.com/rln71/AZ-900-Azure-Fundamentals/blob/main/01-Create%20a%20virtual%20machine.md)
 
